@@ -1,3 +1,5 @@
 When user opens the location.php page(better name?) it could be based on https://blackrockdigital.github.io/startbootstrap-full-slider/
 Where the slider at the top scrolls through each pic of the place and then with a more indepth description underneath it/comments/reviews/
 ticket prices?
+Or maybe base it on https://blackrockdigital.github.io/startbootstrap-blog-post/ and just build the slider into the top picture ourselves
+this one is cleaner for reading as you don't have to scroll down so far.
